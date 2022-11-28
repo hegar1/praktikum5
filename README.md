@@ -1,7 +1,7 @@
 # NAMA : Mohamad Hegar Sukmana Wibowo
 # NIM : 312210332
 # KELAS : TI.22.A3
-# TUGAS 5
+# TUGAS 4
 ## FLOWCHART
 <img width="321" alt="203008139-ca767596-d372-4abe-b3cc-5ffbaa7980b6" src="https://user-images.githubusercontent.com/115518483/203104659-19be99cd-1c2a-4b93-ba72-0eda4bf424c8.png">
 
